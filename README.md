@@ -1,5 +1,8 @@
 - 👋 Hi, we are @gslgrossgmbh, an IT service provider
 - 📫 info@gsl-computer.de
 - 📞 +49 6781 56 96 6-0
-- 📍 Carl-Benz-Str. 19, 55743 Idar-Oberstein, Germany
+-  📍 Carl-Benz-Str. 19, 55743 Idar-Oberstein, Germany
 - ⏱ Mo - Fr, 08:00 - 13:00 and 14:00 - 17:00 GMT+2
+- 🐦 Twitter: @GSL_Systemhaus
+- 📸 Instagram: @gslcomputer
+- 📖 Facebook: @gslgrossgmbh
